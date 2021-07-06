@@ -1,0 +1,162 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.gray-color{
+    color: #555555;
+    ;
+}
+.light-gray-color{
+    color: #828282;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 700;
+    
+}
+
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.order-section {
+    padding-left: 100px ;
+    padding-right: 100px;
+}
+
+.half-width{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 100px;
+}
+
+.order{
+
+    padding-top: 120px;
+    padding-right: 45px;
+
+}
+
+.person-img{
+    width: 45%;
+    padding-left: 200px;
+    padding-top: 65px;
+    
+}
+
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    height: 550px;
+    
+}
+
+.about-me h1{
+    font-size: 40px;
+}
+
+.about-myself{
+    width: 30%;
+    padding-top: 70px;
+    padding-left: 25px;
+}
+
+.recipe-list {
+    width: 30%;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+    padding: 20px;
+    margin: 25px;
+}
+
+.recipe{
+    margin: 50px 80px;
+}
+
+.recipe-list img{
+    width: 100%;
+}
+
+.recipe-list h2{
+    font-weight: 800;
+    font-size: 28px;
+}
+
+.my-recipe h1{
+    font-size: 36px;
+    text-align: center;
+    color: #555555;
+    font-weight: 700;
+
+}
+.text-center{
+    text-align: center;
+}
+
+.social-media{
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 140px;
+}
+.media{
+    width: 30%;
+    margin-left: 50px;
+}
+.media p{
+    margin-top: -40px;
+    margin-bottom: 60px ;
+    font-size: 16px;
+}
+
+.media h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+footer{
+    background-color: rgb(9, 4, 19);
+}
+footer div h1{
+    color: #555555;
+    font-size: 30px;
+}
+footer div span{
+    color: tomato;
+}
+footer div p{
+    color: white;
+    font-size: 16px;
+}
+footer div{
+    text-align: center;  
+    padding-top: 15px;
+    padding-bottom: 80px;
+}
+
+.book-table h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.book-table{
+    margin-left: 100px;
+}
+
+.book-image{
+    margin-left: 150px;
+}
